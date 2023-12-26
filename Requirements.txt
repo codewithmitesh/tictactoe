@@ -1,0 +1,20 @@
+Player 
+- Name 
+- Symbol O OR X
+
+
+Board
+- Initialize Board
+- Display Board
+- Update Board
+- Checking if Someone Won
+
+
+Game
+- Game Loop ( Infinite working )
+- Player turns
+- Game States: 
+    - Winner 
+    - Draw 
+    - OnGoing
+    
